@@ -42,8 +42,10 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Teams
-    url: /teams/
+  #- title: Teams
+    #url: /teams/
+  - title: History
+    url: /history/
   - title: Hobbies
     url: /hobbies/
   # - title: Notes
